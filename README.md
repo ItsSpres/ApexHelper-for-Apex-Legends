@@ -1,8 +1,10 @@
 # ApexHelper for Apex Legends
 This app makes API calls and calls to my own server. It also displays interstitial ads and ad banners using AdMob.
 
+## AppStore Link
+[Click me](https://apps.apple.com/us/app/apexhelper-for-apex-legends/id1452934973)
 ## Languages
-- SWIFT
+- Swift
 ## Technologies Used
 - SwiftUI
 - UIKit
