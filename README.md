@@ -28,3 +28,6 @@ This app was originally developed using Swift UIKit. However, I eventually decid
 ## APIs Used
 - [Tracker Network API](https://tracker.gg/developers)
 - [Apex Legends API](https://apexlegendsapi.com/)
+
+## Screenshots
+![](https://firebasestorage.googleapis.com/v0/b/apex-helper.appspot.com/o/GitHub%20Images%2FScreenshot%202023-02-14%20105639.png?alt=media&token=8a526d0e-051c-4729-a5f9-a5f1b4b8e8c6)
