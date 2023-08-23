@@ -1,6 +1,6 @@
 # ApexHelper for Apex Legends
 This Repo does not hold all the files to ApexHelper. These are just some files that I wish to share for now. 
-
+![](https://ianspresney.com/assets/img/apexhelperBetter.png)
 # Things the app does
 - Searches and displays player's game stats.
 - Displays game information such as map rotation queue (from an API).
